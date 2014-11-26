@@ -18,7 +18,7 @@ projects: [spring-hateoas]
 :source-highlighter: prettify
 :project_id: gs-rest-hateoas
 
- -- istibekesi : forked ---
+ -- istibekesi : forked 2 ---
 
 This guide walks you through the process of creating a "hello world" link:/understanding/HATEOAS[Hypermedia Driven REST web service] with Spring.
 
